@@ -10,8 +10,7 @@ This is a new line added.
 Using Git
 Familiarize yourself with Git by visiting the official Git project site and reading the ProGit book. You can also review the Git command list.
 
-Using GitHub
-GitHub Skills offers free interactive courses that are built into GitHub with instant automated feedback and help. Learn to open your first pull request, make your first open source contribution, create a GitHub Pages site, and more. For more information about course offerings, see GitHub Skills.
+
 
 Become better acquainted with GitHub through our getting started articles. See our GitHub flow for a process introduction. Refer to our overview guides to walk through basic concepts.
 
